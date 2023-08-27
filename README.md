@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 I am a final-year Ph.D. student in the [Department of Computer Science](https://cs.illinois.edu/) at the [University of Illinois at Urbana-Champaign](https://illinois.edu/).
 
-🎇 I am interested in adapting data mining and machine learning algorithms to graph data (i.e., non-IID, relational, non-grid, non-Euclidean data).
+🎇 I am interested in developing data mining and machine learning algorithms to graph data (i.e., non-IID, relational, non-grid, non-Euclidean data).
 
 🤔 The real-world graph data can be (1) **related to the temporal information** (i.e., time-evolving topological structures, time-evolving node/graph features/labels, etc.) and (2) **imperfect** (i.e., missing features, scarce labels, hard-to-interpret, redundant, privacy-leaking, robustness-lacking, etc.).
 
