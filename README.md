@@ -15,4 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-I am a Research Scientist at Meta, working on Geometric Deep Learning, Sequence Modeling, and Probabilistic Graphical Models 🤔
+I am a Research Scientist at Meta, working on **Geometric Deep Learning**, **Sequence Modeling**, and **Probabilistic Graphical Models** 🤔
