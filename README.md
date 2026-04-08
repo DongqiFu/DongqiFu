@@ -15,4 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-I am a Senior Research Scientist at Meta MRS Algorithms and an Associate Editor at ACM Computing Surveys. I work on Generative Models, Relational Data, Neural Networks for their broad applications.
+I am a Senior Research Scientist at Meta MRS and an Associate Editor at ACM Computing Surveys. I work on Generative Models, Relational Data, Neural Networks for their broad applications.
